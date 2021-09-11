@@ -1,0 +1,11 @@
+.hello{
+color: seagreen;
+}
+.list{
+position: relative;
+width: 300px;
+}
+.buttonBlock{
+position: absolute;
+right:0;
+}
